@@ -3,3 +3,5 @@
 ################################################################################
 
 /AzureWebJobs.Job/bin/Debug/netcoreapp2.2
+/AzureWebJobs.Job/obj
+/.vs
