@@ -1,0 +1,1 @@
+# azure-webjobs-3.0
